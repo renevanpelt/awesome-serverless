@@ -1,4 +1,4 @@
-# serverless-development-resources
+# A list of Resources about Serverless Development
 An extensive list of resources about Serverless Development
 
 First of all, I would recommend everybody to watch this 1-hour talk called [Serverless --- reality or BS --- notes from the trenches](https://www.youtube.com/watch?v=PgZ2dxnj734) by [Lynn Langit](https://twitter.com/lynnlangit). In my opinion, the best way to spend one of your first hours exploring serverless development.
