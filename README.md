@@ -6,7 +6,7 @@ An extensive list of resources about Serverless Development. This list is open s
 
 #### Videos
 
--   [Serverless --- reality or BS --- notes from the trenches --- Lynn Langit](https://www.youtube.com/watch?v=PgZ2dxnj734)
+-   [Serverless - reality or BS - notes from the trenches - Lynn Langit](https://www.youtube.com/watch?v=PgZ2dxnj734)
 -   [What Is Serverless?](https://www.youtube.com/watch?v=wWEID0d6wfo)
 -   [GOTO 2017 - Serverless: the Future of Software Architecture - Peter Sbarski](https://www.youtube.com/watch?v=LAWjdZYrUgI)
 -   [Serverless Architectures: What, why, why not, and where next? --- Mike Roberts](https://www.youtube.com/watch?v=i_U_S5Eboy0)
