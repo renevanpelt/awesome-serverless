@@ -45,4 +45,4 @@ An extensive list of resources about Serverless Development. This list is open s
 -   [AWS Lambda Tutorial: Lambda + Serverless = HAPPY](https://www.youtube.com/watch?v=71cd5XerKss)
 
 ### Headless CMS
--   [https://itnext.io/how-to-mix-headless-cms-with-a-vue-js-website-and-pay-zero-770cbb0b1442](How to Mix Headless CMS with a Vue.js Website and Pay Zero) by [https://medium.com/@o.polesny](@o.polesny)
+-   [How to Mix Headless CMS with a Vue.js Website and Pay Zero](https://itnext.io/how-to-mix-headless-cms-with-a-vue-js-website-and-pay-zero-770cbb0b1442) by [@o.polesny](https://medium.com/@o.polesny)
