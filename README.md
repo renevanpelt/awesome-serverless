@@ -6,17 +6,17 @@ An extensive list of resources about Serverless Development. This list is open s
 
 #### Videos
 
--   [Serverless - reality or BS - notes from the trenches by Lynn Langit](https://www.youtube.com/watch?v=PgZ2dxnj734)
--   [What Is Serverless?](https://www.youtube.com/watch?v=wWEID0d6wfo)
--   [GOTO 2017 - Serverless: the Future of Software Architecture by Peter Sbarski](https://www.youtube.com/watch?v=LAWjdZYrUgI)
--   [Serverless Architectures: What, why, why not, and where next? by Mike Roberts](https://www.youtube.com/watch?v=i_U_S5Eboy0)
--   [GOTO 2018 • Confusion in the Land of the Serverless by Sam Newman](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw)
+-   [Serverless - reality or BS - notes from the trenches.](https://www.youtube.com/watch?v=PgZ2dxnj734)
+-   [What Is Serverless?](https://www.youtube.com/watch?v=wWEID0d6wfo) by Lynn Langit
+-   [GOTO 2017 - Serverless: the Future of Software Architecture.](https://www.youtube.com/watch?v=LAWjdZYrUgI)
+-   [Serverless Architectures: What, why, why not, and where next? by Mike Roberts](https://www.youtube.com/watch?v=i_U_S5Eboy0) by Peter Sbarski
+-   [GOTO 2018 • Confusion in the Land of the Serverless.](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw) by Sam Newman
 
 #### Blog Posts
 
 -   [What is Serverless Architecture? What are its Pros and Cons?](https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9) by [Faizan Bashir](https://twitter.com/faizanbasher)
 -   [What is Serverless Architecture?](https://www.twilio.com/docs/glossary/what-is-serverless-architecture) by Twilio
--   [Serverless Architectures](https://martinfowler.com/articles/serverless.html) by [Mike Roberts](https://twitter.com/mikebroberts)
+-   [Serverless Architectures.](https://martinfowler.com/articles/serverless.html) by [Mike Roberts](https://twitter.com/mikebroberts)
 
 #### Misc
 
@@ -40,10 +40,6 @@ An extensive list of resources about Serverless Development. This list is open s
 ### The Serverless Framework
 
 -   [Main website](https://serverless.com/)
-
-#### Videos
-
--   [AWS Lambda Tutorial: Lambda + Serverless = HAPPY](https://www.youtube.com/watch?v=71cd5XerKss)
 
 ### Headless CMS
 -   [How to Mix Headless CMS with a Vue.js Website and Pay Zero](https://itnext.io/how-to-mix-headless-cms-with-a-vue-js-website-and-pay-zero-770cbb0b1442) by [@o.polesny](https://medium.com/@o.polesny)
