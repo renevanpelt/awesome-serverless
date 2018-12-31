@@ -1,4 +1,4 @@
-# A list of Resources about Serverless Development
+# Awesome Serverless
 An extensive list of resources about Serverless Development. This list is open source and I invite everybody to submit more links in any possible way.
 
 
@@ -6,11 +6,11 @@ An extensive list of resources about Serverless Development. This list is open s
 
 #### Videos
 
--   [Serverless - reality or BS - notes from the trenches - Lynn Langit](https://www.youtube.com/watch?v=PgZ2dxnj734)
+-   [Serverless - reality or BS - notes from the trenches by Lynn Langit](https://www.youtube.com/watch?v=PgZ2dxnj734)
 -   [What Is Serverless?](https://www.youtube.com/watch?v=wWEID0d6wfo)
--   [GOTO 2017 - Serverless: the Future of Software Architecture - Peter Sbarski](https://www.youtube.com/watch?v=LAWjdZYrUgI)
--   [Serverless Architectures: What, why, why not, and where next? --- Mike Roberts](https://www.youtube.com/watch?v=i_U_S5Eboy0)
--   [GOTO 2018 • Confusion in the Land of the Serverless • Sam Newman](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw)
+-   [GOTO 2017 - Serverless: the Future of Software Architecture by Peter Sbarski](https://www.youtube.com/watch?v=LAWjdZYrUgI)
+-   [Serverless Architectures: What, why, why not, and where next? by Mike Roberts](https://www.youtube.com/watch?v=i_U_S5Eboy0)
+-   [GOTO 2018 • Confusion in the Land of the Serverless by Sam Newman](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw)
 
 #### Blog Posts
 
